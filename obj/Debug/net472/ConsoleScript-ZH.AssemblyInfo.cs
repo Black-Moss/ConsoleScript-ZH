@@ -10,14 +10,14 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("BlackMossTemplate")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleScript-ZH")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ef2f678c05f19eb59788823f824f57992ac7ed8")]
-[assembly: System.Reflection.AssemblyProductAttribute("BlackMossTemplate")]
-[assembly: System.Reflection.AssemblyTitleAttribute("BlackMossTemplate")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71250644cd41bb408b6373abc7c980db28236b0e")]
+[assembly: System.Reflection.AssemblyProductAttribute("ConsoleScript-ZH")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ConsoleScript-ZH")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/Black-Moss/BlackMossTemplate")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/Black-Moss/ConsoleScript-ZH")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
 

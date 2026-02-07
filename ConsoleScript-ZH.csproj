@@ -1,8 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>net472</TargetFramework>
-    <AssemblyName>BlackMossTemplate</AssemblyName>
-    <Product>BlackMossTemplate</Product>
+    <AssemblyName>ConsoleScript-ZH</AssemblyName>
+    <Product>ConsoleScript-ZH</Product>
     <Version>1.0.0</Version>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <LangVersion>latest</LangVersion>
@@ -11,10 +11,10 @@
 			https://nuget.bepinex.dev/v3/index.json;
 			https://nuget.samboy.dev/v3/index.json
 		</RestoreAdditionalProjectSources>
-    <RootNamespace>BlackMossTemplate</RootNamespace>
+    <RootNamespace>ConsoleScriptZH</RootNamespace>
     <Platforms>AnyCPU;x64;x86</Platforms>
-    <PackageProjectUrl>https://github.com/Black-Moss/BlackMossTemplate</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/Black-Moss/BlackMossTemplate</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/Black-Moss/ConsoleScript-ZH</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Black-Moss/ConsoleScript-ZH</RepositoryUrl>
   </PropertyGroup>
 
   <Import Project="vars.targets" />
