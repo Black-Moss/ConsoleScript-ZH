@@ -16,9 +16,7 @@
     <PackageProjectUrl>https://github.com/Black-Moss/ConsoleScript-ZH</PackageProjectUrl>
     <RepositoryUrl>https://github.com/Black-Moss/ConsoleScript-ZH</RepositoryUrl>
   </PropertyGroup>
-
-  <Import Project="vars.targets" />
-
+  
   <ItemGroup>
     <PackageReference Include="BepInEx.Analyzers" Version="1.*" PrivateAssets="all" />
     <PackageReference Include="BepInEx.Core" Version="5.*" />
@@ -53,6 +51,9 @@
     </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>E:\CasualtiesUnknownDemo\CasualtiesUnknown_Data\Managed\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="QoL Unknown">
+      <HintPath>E:\CasualtiesUnknownDemo\BepInEx\plugins\[生活质量]QoL-Unknown-1.0.3.1-demo5.dll</HintPath>
     </Reference>
     <Reference Include="System.ComponentModel.Composition">
       <HintPath>E:\CasualtiesUnknownDemo\CasualtiesUnknown_Data\Managed\System.ComponentModel.Composition.dll</HintPath>
