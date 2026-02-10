@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleScript-ZH")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74d7069655c1b06233ed5b9ce46aa144065df3ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00773bb6cefae4301deee90dfe6ddbfe1434e522")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleScript-ZH")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleScript-ZH")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
