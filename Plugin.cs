@@ -3,7 +3,7 @@ using BepInEx;
 using BepInEx.Logging;
 using HarmonyLib;
 
-namespace BlackMossTemplate
+namespace ConsoleScriptZH
 {
     [BepInPlugin("blackmoss.consolescriptzh", "ConsoleScriptZH", "1.0.0")]
     public class Plugin : BaseUnityPlugin
@@ -48,7 +48,7 @@ namespace BlackMossTemplate
                     { "fucklore", "立即跳过任何全屏设定文本" },
                     { "timescale", "将时间刻度设置为所需的值" },
                     { "setconsoleheight", "将控制台高度设置为所需的值" },
-                    { "setconsolecolor", "设置控制台某个元素的颜色。" },
+                    { "setconsolecolor", "设置控制台某个元素的颜色" },
                     { "copylog", "将整个控制台日志复制到剪贴板" },
                     { "clear", "清除控制台日志" },
                     { "addxp", "给予角色在选定技能上的经验" },
@@ -65,7 +65,7 @@ namespace BlackMossTemplate
                     { "removecustomcommand", "从列表中移除已有的自定义命令" },
                     { "music", "管理背景音乐。可以播放新曲目、跳过当前曲目的时间或打开MP3菜单" },
                     { "bind", "管理自定义命令绑定，可以增加、移除或列出它们" },
-                    { "repeat", "以指定的次数运行指定的一系列命令，并带有延迟。" },
+                    { "repeat", "以指定的次数运行指定的一系列命令，并带有延迟" },
                     { "explode", "在指定位置发生爆炸，并可使用可选参数" },
                     { "echo", "切换所有新命令日志" },
                     { "starterkit", "以随机套装生成，包含基础容器、工具和药品" },
