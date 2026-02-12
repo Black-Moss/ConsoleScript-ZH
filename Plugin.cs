@@ -72,6 +72,7 @@ namespace ConsoleScriptZH
                     { "noclip", "切换无碰撞模式（启用飞行并禁用玩家碰撞）" },
                     { "playsound", "播放指定ID的音频" },
                     { "fullbright", "切换调试照明" },
+                    { "plushies", "按顺序生成一排游戏中所有类型的毛绒玩具。" },
                     { "errorlogging", "切换错误日志" }
                 };
 
